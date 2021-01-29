@@ -1,6 +1,6 @@
 # covid-navi-mumbai
 
-COVID-19 showcasing website made using HTML, CSS, PHP and JavaScript 
+COVID-19 showcasing website made using HTML, CSS, PHP and JavaScript.
 
 For website info, check out sitemap.xml.
 
