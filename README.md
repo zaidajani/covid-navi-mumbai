@@ -24,6 +24,13 @@ The content should be as follows.
 
 Then just start server and you will see the web application in action.
 
+## Make a `case_data` Table in the database
+
+Schema should be:
+places
+total cases
+deceased
+
 ## To update the data, update data in the database
 
 ## Enjoy your application
